@@ -1,9 +1,9 @@
 import React from 'react'
+import Routes from './routes'
+import './styles/main.scss'
 
 const App = () => (
-    <div>
-        Webpack 5
-    </div>
+	<Routes />
 )
 
 export default App
